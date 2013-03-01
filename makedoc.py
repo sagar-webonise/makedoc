@@ -1,8 +1,4 @@
 
-
-
-
-
 class Initialize():
 	"""
 	   Initializing the variables and accepting the required values from user
